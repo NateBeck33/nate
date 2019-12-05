@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker Fun
 // @namespace    https://github.com/bob
-// @version      1.9.0
+// @version      1.9.8
 // @description  Krunker Fun
 // @author       Nate Beck
 // @match        https://krunker.io/*
